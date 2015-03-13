@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/MrBri/nodeschool",
   "dependencies": {
-    "bl": "^0.9.4"
+    "bl": "^0.9.4",
+    "moment": "^2.9.0",
+    "through2-map": "^1.4.0"
   }
 }
